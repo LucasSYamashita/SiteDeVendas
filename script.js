@@ -1,0 +1,1 @@
+var tarefa1 = getElemen x
